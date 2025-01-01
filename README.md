@@ -83,9 +83,6 @@ pickle5==0.0.11
 ## Contributing
 Feel free to fork this project and submit pull requests. Contributions are welcome!
 
-## License
-This project is licensed under the MIT License.
-
 ## Acknowledgements
 - Dataset: Kaggle or IMDB
 - Libraries: Scikit-learn, Streamlit, Pandas
